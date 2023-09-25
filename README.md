@@ -14,16 +14,16 @@
 ## Указать путь в папку Git 
     cd ‘путь к папке’ 
 ##  Создать из текущей папки GIT локальный репозиторий 
-    `` git init ``
+     git init 
 ## Добавить файлы из репозитория в индекс 
-    `` git add . ``
+     git add . 
 ## Сохранить текущую версию (добавить коммит) 
-    `` git commit -m "Первый коммит" ``
+     git commit -m "Первый коммит" 
 ##  В GitHub создать репозиторий с именем GitName
 ## В Git Bash набрать команду (подключить к локальному репозиторию удаленный) 
-    `` git remote add origin https://github.com/ВашЛогинНаГитхаб/GitName.git ``
+     git remote add origin https://github.com/ВашЛогинНаГитхаб/GitName.git 
 ## Создать основную ветку
-    `` git branch -M main ``
+     git branch -M main 
 ## Перенести локальный репозиторий
-    `` git push -u origin main ``
+     git push -u origin main 
   
