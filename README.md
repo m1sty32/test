@@ -11,6 +11,7 @@
     `
     git config --global user.name "" 
     `
+    добавить емайл
     
     ``` 
     git config --global user.email "" 
