@@ -26,4 +26,6 @@
      git branch -M main 
 ## Перенести локальный репозиторий
      git push -u origin main 
-  
+## Слияние веток
+    Создание новой ветки
+    git branch новая_ветка
